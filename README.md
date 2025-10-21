@@ -1,2 +1,2 @@
 ## Hi there 👋
-This is where I store some code that I wrote. Mainly small side projects or some course work I thought was interesting.
+I use this GitHub account to privately do version control of my coding projects. I also want to keep practicing git for future job applications.
